@@ -8,6 +8,6 @@ To add this into chrome follow the steps:
 5. Pin down the extention for ease of use
 
 To use the extention:
-1. Visit url: https://ontime.simformsolutions.com/timesheet
+1. Visit url: https://ontime.armakuni.in/timesheet or https://ontime.simformsolutions.com/timesheet
 2. Click on pinned extention and push "Get Ontime Matrix" button
 3. Ontime analysis matrix will be showed just below the heading "Timesheet".
