@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Ontime Analyzer",
+    "version": "1.0",
+    "description": "Change webpage background color",
+    "permissions": ["activeTab", "scripting","notifications"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
